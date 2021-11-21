@@ -1,4 +1,5 @@
 # data-structures-using-c
+Common algorithms used in different data structures implemented using C language.
 
 ### Data Structures Included
 <ol>
